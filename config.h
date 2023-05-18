@@ -1,4 +1,4 @@
-/* See LICENSE file for copyright and license details. */
+/* See LICENSE file for copyright and license details... */
 /*test*/
 static char *fontfallbacks[] = {
 	"dejavu sans",
@@ -16,8 +16,8 @@ static const char *colors[] = {
 static const float linespacing = 1.4;
 
 /* how much screen estate is to be used at max for the content */
-static const float usablewidth = 0.75;
-static const float usableheight = 0.75;
+static const float usablewidth = 0.95;
+static const float usableheight = 0.95;
 
 static Mousekey mshortcuts[] = {
 	/* button         function        argument */
